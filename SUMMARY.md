@@ -14,5 +14,6 @@
   - [setup - computed](src/05.md#vue-computed)
   - [setup - watch / watchEffect](src/05.md#watch_watchEffect)
   - [setup - 生命週期](src/05.md#vue-lifecycle)
+  - [v-model 改動](src/06.md)
 
 - [Vue Config 環境設定](src/other01.md)
