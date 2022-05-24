@@ -23,4 +23,8 @@
   - [Suspense (目前為實驗性功能)](src/08.md)
   - [Directive 自訂指令](src/09.md)
 
+- [script setup 新語法糖](src/10.md)
+
+  -[]()
+
 - [Vue Config 環境設定](src/other01.md)
