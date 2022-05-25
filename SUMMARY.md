@@ -24,7 +24,8 @@
   - [Directive 自訂指令](src/09.md)
 
 - [script setup 新語法糖](src/10.md)
-
-  -[]()
-
+  - [script setup - 起手式](src/10.md#vue-setup_first)
+  - [script setup - 自動註冊元件](src/10.md#vue-setup_component)
+  - [script setup - 資料傳遞](src/10.md#vue-setup_props)
+  - [script setup - emit 事件](src/10.md#vue-setup_event)
 - [Vue Config 環境設定](src/other01.md)
