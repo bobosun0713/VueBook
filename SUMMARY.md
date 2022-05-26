@@ -28,4 +28,7 @@
   - [script setup - 自動註冊元件](src/10.md#vue-setup_component)
   - [script setup - 資料傳遞](src/10.md#vue-setup_props)
   - [script setup - emit 事件](src/10.md#vue-setup_event)
+  - [script setup - expose( 限制組件對外的參數 ) ](src/10.md#vue-setup_expose)
+  - [script setup - attrs(屬性) & slots(插槽)](src/10.md#vue-setup_attrs-slots)
+  - [script setup - style ( v-bind )](src/11.md#)
 - [Vue Config 環境設定](src/other01.md)
