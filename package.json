@@ -1,0 +1,22 @@
+{
+  "name": "vue-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobosun0713/Vue-book.git"
+  },
+  "author": "bobosun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobosun0713/Vue-book/issues"
+  },
+  "homepage": "https://github.com/bobosun0713/Vue-book#readme",
+  "dependencies": {
+    "gitbook-plugin-back-to-top-button": "^0.1.4"
+  }
+}
