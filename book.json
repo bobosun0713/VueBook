@@ -1,3 +1,62 @@
 {
-  "plugins": ["back-to-top-button"]
+  "title": "Vue3 學習日誌",
+  "description": "簡而易懂的介紹",
+  "author": "bobosun",
+  "language": "zh",
+
+  "plugins": [
+    "back-to-top-button",
+    "github",
+    "-sharing",
+    "flexible-alerts",
+    "favicon",
+    "highlight",
+    "-sunlight-highlighter",
+    "sectionx",
+    "-code",
+    "copy-code-button"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/bobosun0713"
+    },
+    "flexible-alerts": {
+      "style": "callout",
+      "tip": {
+        "label": "Tip",
+        "icon": "fa-light fa-lightbulb-exclamation",
+        "className": "tip"
+      },
+      "warning": {
+        "label": "Warning",
+        "icon": "fa-light fa-triangle-exclamation",
+        "className": "warning"
+      },
+      "comment": {
+        "label": "Comment",
+        "icon": "fa fa-comments",
+        "className": "info"
+      },
+      "note": {
+        "label": "Note",
+        "icon": "fa-light fa-square-info",
+        "className": "info"
+      }
+    },
+    "favicon": {
+      "shortcut": "images/vue.ico",
+      "bookmark": "images/vue.ico",
+      "appleTouch": "images/vue.png"
+    },
+    "sunlight-highlighter": {
+      "theme": "dark",
+      "lineNumber": false
+    },
+    "sectionx": {
+      "tag": "b"
+    },
+    "code": {
+      "copyButtons": true
+    }
+  }
 }

@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "gitbook serve",
+    "build": "gitbook build"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,11 @@
   },
   "homepage": "https://github.com/bobosun0713/Vue-book#readme",
   "dependencies": {
-    "gitbook-plugin-back-to-top-button": "^0.1.4"
+    "gitbook-plugin-back-to-top-button": "^0.1.4",
+    "gitbook-plugin-copy-code-button": "^0.0.2",
+    "gitbook-plugin-favicon": "^0.0.2",
+    "gitbook-plugin-flexible-alerts": "^1.0.3",
+    "gitbook-plugin-github": "^2.0.0",
+    "gitbook-plugin-sectionx": "^3.1.0"
   }
 }
