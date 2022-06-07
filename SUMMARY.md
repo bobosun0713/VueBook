@@ -33,9 +33,9 @@
   - [script setup - CSS (v-bind、scope、module)](src/11.md#)
 
 - [Pinia (資料管理 )](src/12.md)
-   - [起手式](src/12.md)
-   - [pinia - state](src/12.md#pinia-init)
-   - [pinia - getters](src/12.md#pinia-state)
+   - [起手式](src/12.md#pinia-init)
+   - [pinia - state](src/12.md#pinia-state)
+   - [pinia - getters](src/12.md#pinia-getters)
    - [pinia - actions](src/12.md#pinia-actions)
 
 
