@@ -32,11 +32,15 @@
   - [script setup - attrs(屬性) & slots(插槽)](src/10.md#vue-setup_attrs-slots)
   - [script setup - CSS (v-bind、scope、module)](src/11.md#)
 
-- [Pinia (資料管理 )](src/12.md)
+- Pinia (資料管理 官方推薦)
+   - [簡介](src/12.md#pinia-intro)
+   - [安裝](src/12.md#pinia-install)
    - [起手式](src/12.md#pinia-init)
    - [pinia - state](src/12.md#pinia-state)
    - [pinia - getters](src/12.md#pinia-getters)
    - [pinia - actions](src/12.md#pinia-actions)
+
+- [Vuex (資料管理)](src/13.md)
 
 
 - [Vue Config 環境設定](src/other01.md)
