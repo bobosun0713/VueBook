@@ -40,6 +40,8 @@
    - [pinia - getters](src/12.md#pinia-getters)
    - [pinia - actions](src/12.md#pinia-actions)
 
+- Vue 開發實務
+   - [取得 Vue Instance 方法]()
 - [Vuex (資料管理)](src/13.md)
 
 
