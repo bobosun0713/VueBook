@@ -22,6 +22,7 @@
   - [Teleport (傳送)](src/07.md)
   - [Suspense (目前為實驗性功能)](src/08.md)
   - [Directive 自訂指令](src/09.md)
+  - [Render Functions](src/14.md)
 
 - [script setup 新語法糖](src/10.md)
   - [script setup - 起手式](src/10.md#vue-setup_first)
