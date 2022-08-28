@@ -2,9 +2,12 @@
 
 
 ## 版本
-
+- node 10.24.1 (需要使用10版本，10版以上版本安裝會失敗)
 - gitbook 3.2.3
 - gitbook-cli 2.3.2
+
+## 安裝方式
+- npm install gitbook gitbook-cli
 
 ## 使用套件
 
@@ -16,4 +19,4 @@
 6. [sunlight-highlighter 語法高亮](https://github.com/lwchkg/gitbook-plugin-sunlight-highlighter)
 7. [back-to-top-button](https://github.com/stuebersystems/gitbook-plugin-back-to-top-button)
 8. [sectionx 百葉窗](https://github.com/manchiyiu/gitbook-plugin-sectionx)
-9.  [copy-code-button 複製按鈕](https://github.com/WebEngage/gitbook-plugin-copy-code-button)
+9. [copy-code-button 複製按鈕](https://github.com/WebEngage/gitbook-plugin-copy-code-button)

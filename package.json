@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "gitbook serve",
+    "init": "gitbook init",
+    "start": "gitbook serve",
     "build": "gitbook build"
   },
   "repository": {
@@ -18,6 +19,8 @@
   },
   "homepage": "https://github.com/bobosun0713/Vue-book#readme",
   "dependencies": {
+    "gitbook": "^2.6.9",
+    "gitbook-cli": "^2.3.2",
     "gitbook-plugin-back-to-top-button": "^0.1.4",
     "gitbook-plugin-copy-code-button": "^0.0.2",
     "gitbook-plugin-favicon": "^0.0.2",
