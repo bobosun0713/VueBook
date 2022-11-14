@@ -44,4 +44,5 @@
 
 -----
 * [Vue Config 環境設定](src/other01.md)
+* [Vite Config 環境配置](src/other02.md)
 
