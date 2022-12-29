@@ -41,6 +41,9 @@
 * Vue 開發實務
     * 取得 Vue Instance 方法
 * [Vuex (資料管理)](src/13.md)
+* [Vite](開發實務)
+    * [環境變數/模式/切換](vite01.md)
+
 
 -----
 * [Vue Config 環境設定](src/other01.md)
